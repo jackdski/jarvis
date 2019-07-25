@@ -1,0 +1,5 @@
+location=boulder,us
+temperature=celsius
+
+http://api.openweathermap.org/data/2.5/forecast?q=boulder,us&mode=json&units=metric&APPID=95f93c13ee33a59d9818e3e9c321791b
+http://api.openweathermap.org/data/2.5/forecast?q=boulder,us&mode=json&units=metric&APPID=95f93c13ee33a59d9818e3e9c321791b
