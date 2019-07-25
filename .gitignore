@@ -2,3 +2,5 @@ __pycache__
 token.pickle
 venv/
 features/utils/credentials
+/features/utils/credentials.json
+.idea/
